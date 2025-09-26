@@ -1,0 +1,7 @@
+﻿registrationnumber,username,email,fullName,role,department,phone,position,status
+01,ahmet.yilmaz,ahmet.yilmaz@company.com,Ahmet Yılmaz,user,IT,+90 555 123 4567,Yazılım Geliştirici,active
+02,mehmet.kaya,mehmet.kaya@company.com,Mehmet Kaya,manager,HR,+90 555 234 5678,İnsan Kaynakları Müdürü,active
+03,fatma.demir,fatma.demir@company.com,Fatma Demir,user,Finance,+90 555 345 6789,Muhasebe Uzmanı,active
+04,ali.ozturk,ali.ozturk@company.com,Ali Öztürk,admin,IT,+90 555 456 7890,Sistem Yöneticisi,active
+05,zeynep.aksoy,zeynep.aksoy@company.com,Zeynep Aksoy,user,Marketing,+90 555 567 8901,Pazarlama Uzmanı,inactive
+06,burak.celik,burak.celik@company.com,Burak Çelik,user,Operations,+90 555 678 9012,Operasyon Uzmanı,active
